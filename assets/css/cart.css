@@ -1,0 +1,42 @@
+header .navigation .basket-icon {
+    margin-right: 30px;
+    position: relative;
+  }
+  
+  header .navigation .basket-icon i {
+    font-size: 25px;
+    color: red;
+  }
+  
+  header .navigation .basket-icon span {
+    position: absolute;
+    top: -15px;
+    color: red;
+  }
+
+  .delete-icon{
+    font-size: 25px;
+    color: red;
+    cursor: pointer;
+  }
+  .btn-success{
+    width: 100px;
+    height: 40px;
+  }
+  .count-box{
+    width: 100px;
+    height: 40px;
+    background-color: green;
+    border-radius: 15px;
+  }
+  .btn-left{
+    padding: 0;
+    border: none;
+    margin-right: 5px;
+    
+  }
+  .btn-right{
+    padding: 0;
+    border: none;
+    margin-left: 5px;
+  }
